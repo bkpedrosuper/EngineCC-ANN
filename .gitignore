@@ -1,2 +1,3 @@
 venv
 data/dataset*
+notebooks/__pycache__
